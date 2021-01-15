@@ -1,3 +1,3 @@
-# c-39
-## Project-39 FRUIT CATCHER 1
-# By KenaRathod
+# C-40
+## Project-39 FRUIT CATCHER 2
+# By MOHAMMED ABDUL SAMAD 
